@@ -3,10 +3,6 @@ import { motion } from "framer-motion";
 
 import {
   Sparkles,
-  Bot,
-  Workflow,
-  ShieldCheck,
-  BarChart3,
   Mail,
   ArrowRight,
   Menu,
